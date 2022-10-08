@@ -1,1 +1,8 @@
 /target
+*.exe
+*.out
+*.app
+
+.vscode
+.DS_Store
+*.class
